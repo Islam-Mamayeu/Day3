@@ -1,0 +1,4 @@
+c:\users\islam_mamayeu@epam.com\documents\visual studio 2015\Projects\Solution3\Logic\bin\Debug\Logic.dll
+c:\users\islam_mamayeu@epam.com\documents\visual studio 2015\Projects\Solution3\Logic\bin\Debug\Logic.pdb
+c:\users\islam_mamayeu@epam.com\documents\visual studio 2015\Projects\Solution3\Logic\obj\Debug\Logic.dll
+c:\users\islam_mamayeu@epam.com\documents\visual studio 2015\Projects\Solution3\Logic\obj\Debug\Logic.pdb
