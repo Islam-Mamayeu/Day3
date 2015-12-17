@@ -1,0 +1,13 @@
+C:\Users\Islam_Mamayeu@epam.com\Documents\Visual Studio 2015\Projects\Solution3\TestPolinom\obj\Debug\TestPolinom.csprojResolveAssemblyReference.cache
+C:\Users\Islam_Mamayeu@epam.com\Documents\Visual Studio 2015\Projects\Solution3\TestPolinom\bin\Debug\TestPolinom.dll
+C:\Users\Islam_Mamayeu@epam.com\Documents\Visual Studio 2015\Projects\Solution3\TestPolinom\bin\Debug\TestPolinom.pdb
+C:\Users\Islam_Mamayeu@epam.com\Documents\Visual Studio 2015\Projects\Solution3\TestPolinom\bin\Debug\Logic.dll
+C:\Users\Islam_Mamayeu@epam.com\Documents\Visual Studio 2015\Projects\Solution3\TestPolinom\bin\Debug\nunit.core.dll
+C:\Users\Islam_Mamayeu@epam.com\Documents\Visual Studio 2015\Projects\Solution3\TestPolinom\bin\Debug\nunit.core.interfaces.dll
+C:\Users\Islam_Mamayeu@epam.com\Documents\Visual Studio 2015\Projects\Solution3\TestPolinom\bin\Debug\nunit.framework.dll
+C:\Users\Islam_Mamayeu@epam.com\Documents\Visual Studio 2015\Projects\Solution3\TestPolinom\bin\Debug\nunit.util.dll
+C:\Users\Islam_Mamayeu@epam.com\Documents\Visual Studio 2015\Projects\Solution3\TestPolinom\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+C:\Users\Islam_Mamayeu@epam.com\Documents\Visual Studio 2015\Projects\Solution3\TestPolinom\bin\Debug\Logic.pdb
+C:\Users\Islam_Mamayeu@epam.com\Documents\Visual Studio 2015\Projects\Solution3\TestPolinom\bin\Debug\nunit.framework.xml
+C:\Users\Islam_Mamayeu@epam.com\Documents\Visual Studio 2015\Projects\Solution3\TestPolinom\obj\Debug\TestPolinom.dll
+C:\Users\Islam_Mamayeu@epam.com\Documents\Visual Studio 2015\Projects\Solution3\TestPolinom\obj\Debug\TestPolinom.pdb

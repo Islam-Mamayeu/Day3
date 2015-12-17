@@ -2,3 +2,4 @@ c:\users\islam_mamayeu@epam.com\documents\visual studio 2015\Projects\Solution3\
 c:\users\islam_mamayeu@epam.com\documents\visual studio 2015\Projects\Solution3\Logic\bin\Debug\Logic.pdb
 c:\users\islam_mamayeu@epam.com\documents\visual studio 2015\Projects\Solution3\Logic\obj\Debug\Logic.dll
 c:\users\islam_mamayeu@epam.com\documents\visual studio 2015\Projects\Solution3\Logic\obj\Debug\Logic.pdb
+C:\Users\Islam_Mamayeu@epam.com\Documents\Visual Studio 2015\Projects\Solution3\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
